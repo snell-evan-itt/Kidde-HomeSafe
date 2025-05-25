@@ -1,4 +1,4 @@
 """Constants for the Kidde HomeSafe integration."""
 
-DOMAIN = "kidde"
+DOMAIN = "kidde_homesafe"
 MANUFACTURER = "Kidde"
