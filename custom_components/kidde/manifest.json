@@ -1,0 +1,16 @@
+{
+  "domain": "kidde",
+  "name": "Kidde-HomeSafe",
+  "codeowners": [
+    "@snell-evan-itt"
+  ],
+  "config_flow": true,
+  "documentation": "https://github.com/snell-evan-itt/Kidde-HomeSafe",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/snell-evan-itt/Kidde-HomeSafe/issues",
+  "requirements": [
+    "kidde-homesafe"
+  ],
+  "version": "0.0.0"
+}
