@@ -1,5 +1,5 @@
 {
-  "domain": "kidde",
+  "domain": "kidde_homesafe",
   "name": "Kidde-HomeSafe",
   "codeowners": [
     "@snell-evan-itt"
