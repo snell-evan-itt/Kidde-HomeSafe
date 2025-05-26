@@ -24,7 +24,7 @@ Devices supported include
 
 ## HACS Installation
 
-[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=integration&repository=Kidde-HomeSafe-US&owner=snell-evan-itt)
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=integration&repository=Kidde-HomeSafe&owner=snell-evan-itt)
 
 - Click above to install as a custom repository via HACS
 - Restart Home Assistant
