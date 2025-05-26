@@ -28,7 +28,7 @@ Devices supported include
 
 - Click above to install as a custom repository via HACS
 - Restart Home Assistant
-- Once restart is done, use Add Integration -> Ecoflow Cloud.
+- Once restart is done, use Add Integration -> Kidde-HomeSafe.
 
 
 >[!CAUTION]
