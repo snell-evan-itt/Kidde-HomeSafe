@@ -14,12 +14,22 @@ Devices supported include
 - Water Leak + Freeze Detector (60WLDR-W) (verified)
 - Carbon Monoxide Alarm with Indoor Air Quality Monitor (KN-COP-DP-10YL-AQ-WF) (verified)
 
-## HACS Installation
+## HACS Installation (Pending add to HACS Default Repos Use Manual Install till thats complete)
+
+[![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?category=integration&repository=Kidde-HomeSafe-US&owner=snell-evan-itt)
+
+- Click above to install as a custom repository via HACS
+- Restart Home Assistant
+- Once restart is done, use Add Integration -> Ecoflow Cloud.
+
+## Manual Installation
 
 1. Follow the [HACS instructions][hacs_custom_repo] for a custom repo, using https://github.com/snell-evan-itt/Kidde-HomeSafe as the URL
 2. The **Kidde HomeSafe** integration should now show up in HACS; click on it and select **Download** --> **Download**
 3. Restart Home Assistant
 4. In the HA UI go to "Configuration" -> "Integrations" click "+" and search for "Kidde"
 5. Configuration is done in the UI
+
+
 
 You may get a notification from the Kidde app once you complete setup Allow it or it will break updates to Home Assistant# Kidde-HomeSafe
