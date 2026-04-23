@@ -21,6 +21,8 @@ Devices supported include
   - **Verified**
 - Carbon Monoxide Alarm with Indoor Air Quality Monitor (**KN-COP-DP-10YL-AQ-WF**)
   - **Verified**
+- Kidde DETECT™ Series Alarms (**30CUAR-W, 20SAR-W**)
+    - *Includes Smoke and Smoke/CO Alarms with smart features*
 
 ## HACS Installation
 

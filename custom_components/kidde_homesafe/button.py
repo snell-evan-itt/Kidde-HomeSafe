@@ -58,7 +58,7 @@ async def async_setup_entry(
 
     for device_id in coordinator.data.devices:
         match coordinator.data.devices[device_id].get(KEY_MODEL, None):
-            case "wifiiaqdetector" | "wifidetector":
+            case "wifiiaqdetector" | "wifidetector" | "EssWFAC":
                 for entity_description in _BUTTON_DESCRIPTIONS:
                     sensors.append(
                         KiddeButtonEntity(coordinator, device_id, entity_description)
