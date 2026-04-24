@@ -2,6 +2,7 @@
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/snell-evan-itt/Kidde-HomeSafe/total?style=for-the-badge)](https://github.com/snell-evan-itt/Kidde-HomeSafe/releases/latest)
 [![HACS Default](https://img.shields.io/badge/HACS-default-blue.svg?style=for-the-badge)](https://hacs.xyz)
 [![Community forum discussion](https://img.shields.io/badge/COMMUNITY-FORUM-success?style=for-the-badge&color=yellow)](https://community.home-assistant.io/)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/snell.evan.itt)
 
 # Kidde HomeSafe Integration
 Integration to add Kidde HomeSafe Devices into Home Assistant
